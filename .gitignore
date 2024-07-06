@@ -1,0 +1,9 @@
+*-bak
+*.bak
+*.lck
+*.FCBak
+*.gcode
+hardware/_autosave*
+hardware/*-backups/
+hardware/fp-info-cache
+.DS_Store
