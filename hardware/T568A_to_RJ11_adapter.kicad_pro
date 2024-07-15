@@ -59,10 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_issues|106984102|118968808|e9e79927-0ee8-484e-be5d-17bbeb2f7224|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|99103000|61034000|a1f00b39-d0cd-45b4-b465-63929db401e3|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
