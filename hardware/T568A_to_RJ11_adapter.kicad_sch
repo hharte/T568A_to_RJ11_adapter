@@ -1205,6 +1205,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "54601-906WPLF"
+			(at 140.97 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "609-4729-ND"
+			(at 140.97 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "c3c2fce6-2450-4d13-9307-46443623a33f")
 		)
@@ -1280,6 +1298,24 @@
 		)
 		(property "Description" "RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"
 			(at 166.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "54601-906WPLF"
+			(at 166.37 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "609-4729-ND"
+			(at 166.37 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1488,6 +1524,24 @@
 		)
 		(property "Description" "RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"
 			(at 191.77 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "54601-906WPLF"
+			(at 191.77 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "609-4729-ND"
+			(at 191.77 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1737,6 +1791,24 @@
 		)
 		(property "Description" "RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"
 			(at 217.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "609-4729-ND"
+			(at 217.17 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "54601-906WPLF"
+			(at 217.17 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
